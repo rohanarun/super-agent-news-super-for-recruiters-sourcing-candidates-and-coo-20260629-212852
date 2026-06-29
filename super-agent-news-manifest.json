@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)",
+    "[thenextweb.com](https://thenextweb.com/news/google-gemini-3-5-flash-computer-use-built-in-tool)",
+    "[forbes.com](https://www.forbes.com/sites/)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com/)",
+    "[venturebeat.com](https://venturebeat.com/)",
+    "[techrepublic.com](https://www.techtarget.com/)"
+  ],
+  "design_plan": "rng=42; AIDA_pass=true; hero_lines=2.4; bento_density=grid-auto-flow:dense; label_sweep=ok; button_contrast=AA+",
+  "generated_at": "2026-06-29T21:28:59.642468+00:00",
+  "headline": "Super for recruiters sourcing candidates and coordinating interviews",
+  "site_brief": {
+    "audience": "recruiters sourcing candidates and coordinating interviews",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "recruiters sourcing candidates and coordinating interviews AI assistant",
+      "recruiters sourcing candidates and coordinating interviews personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-recruiters-sourcing-candidates-and-coordinating",
+    "title": "Super for recruiters sourcing candidates and coordinating interviews"
+  },
+  "summary": "A conversion\u2011focused niche landing page that reuses Super\u2019s proven comparison\u2011page visual system to show recruiters how a personal AI agent that can operate real hiring tools \u2014 and reuse a computer-use cache \u2014 speeds sourcing, scheduling, and follow\u2011ups compared with general assistants."
+}
